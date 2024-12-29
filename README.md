@@ -50,7 +50,7 @@
 | **Memoria**             | Menos uso por elemento       | Más uso debido a referencias    |
 | **Redimensionamiento**   | Necesario                    | No necesario                    |
 
-###Referencias
+### Referencias
 
 - StackOverFlow. (2018).  https://es.stackoverflow.com/questions/172954/cuando-es-mejor-usar-linkedlist-y-cuando-arraylist
 - OpenAI. (2024). *ChatGPT: AI Language Model*. https://www.openai.com/chatgpt
